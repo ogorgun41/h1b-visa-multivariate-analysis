@@ -48,7 +48,7 @@ It explores patterns in demographics, job titles, wages, visa classes, and proce
 ## Author
 
 **Omer Gorgun**  
-M.S. in Data Science | Lewis University  
+M.S. in Data Science |M.S. in Business Analytics |B.S. in Economics
 [LinkedIn](https://www.linkedin.com/in/omer-gorgun) | [GitHub](https://github.com/ogorgun41)
 
 ---
