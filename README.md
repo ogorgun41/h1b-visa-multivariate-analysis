@@ -51,6 +51,12 @@ It explores patterns in demographics, job titles, wages, visa classes, and proce
 M.S. in Data Science |M.S. in Business Analytics |B.S. in Economics
 [LinkedIn](https://www.linkedin.com/in/omer-gorgun) | [GitHub](https://github.com/ogorgun41)
 
+**Anabel Aguilar Ramirez**
+M.S. in Data Science 
+
+**Sai Sree Koneru**
+M.S. in Data Science 
+
 ---
 
 ## Notes
