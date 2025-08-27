@@ -2,7 +2,7 @@
 
 This project analyzes multivariate trends in H-1B visa applications from FY2021 to FY2024 using real-world datasets
 Multivariate analysis of H-1B visa applicants from FY2021–FY2024 is conducted
-It explores patterns in demographics, job titles, wages, visa classes, and processing outcomes using Python-based data science workflows and Tableau's storytelling.
+It explores patterns in demographics, job titles, wages, visa classes, and processing outcomes using Python-based data science workflows and Tableau's storytelling
 
 ---
 
