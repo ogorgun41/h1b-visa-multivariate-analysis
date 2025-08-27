@@ -55,4 +55,4 @@ M.S. in Data Science |M.S. in Business Analytics |B.S. in Economics
 
 ## Notes
 
-- Full project is a great mix of data cleaning & representation, and feature selection within multivariate analytics portfolio.
+- Full project is a great mix of data cleaning & representation, and feature selection within multivariate analytics portfolio experience. 
